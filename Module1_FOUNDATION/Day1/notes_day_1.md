@@ -60,9 +60,9 @@ So for Today We Learn
 
 
 
-- [x] Day 1 – What is WinAPI?
-- [x] Day 2 – what is windows.h
-- [x] Day 3 – Why Application need the windows API
+- [x] What is WinAPI?
+- [x] what is windows.h
+- [x] Why Application need the windows API
 
 
 Now From Next We create a Simple Code to Make the Hello World Ritual but We do the Introduction Here So I will make a Simple C++ hello World should do to Understand the Basics
@@ -97,4 +97,4 @@ and the Run it by
     keep consistent but if You already know
     the Basics so its So Easy for You too
 
-See Ya On Day 2 in Module 1 ;)
+See Ya On Day 2 in Module 2 ;)
